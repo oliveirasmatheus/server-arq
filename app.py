@@ -22,7 +22,7 @@ PROJETOS = [
         "Imagem": "escritorio_corporativo.jpg",
         "Área": 500,
         "Descrição": "Projeto de um escritório corporativo com áreas colaborativas e tecnologia de ponta.",
-        "Visivel": False
+        "Visivel": True
     },
     {
         "id": uuid.uuid4().hex,
